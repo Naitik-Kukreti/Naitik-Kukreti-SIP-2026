@@ -37,19 +37,6 @@ This project was developed as part of the **AI-Assisted Full Stack Web Developme
 
 ---
 
-## Project Structure
-
-```text
-Yatra-Sathi/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
 ## Website Sections
 
 ### Home Page
