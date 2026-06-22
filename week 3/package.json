@@ -1,0 +1,18 @@
+{
+  "name": "yatra-sathi",
+  "version": "1.0.0",
+  "description": "AI-powered eco-tourism and homestay recommendation frontend for Week 2 and Week 3 deliverables.",
+  "scripts": {
+    "start": "python -m http.server 5173",
+    "serve": "python -m http.server 5173"
+  },
+  "keywords": [
+    "eco-tourism",
+    "homestay",
+    "frontend",
+    "week-2",
+    "week-3"
+  ],
+  "author": "Yatra Sathi",
+  "license": "MIT"
+}
